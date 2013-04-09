@@ -1,1 +1,1 @@
-This folder is mine.  There are many like it but this one is mine.
+This folder is my folder.  There are many like it but this one is mine.
